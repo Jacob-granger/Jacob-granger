@@ -1,3 +1,3 @@
 # Kia ora, I'm Jacob
 
-A full-stack web developer + landscaper ⌨️ ⛏️
+A full-stack web developer / landscaper ⌨️ ⛏️
